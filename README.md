@@ -1,4 +1,4 @@
-# Tweet_Trend_Analysis
+# Real-Time_Sentiment_Analysis
 
 Encore Playdata Bigdata Engineer - Mini Project 03
 
