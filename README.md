@@ -18,7 +18,7 @@ Encore Playdata Bigdata Engineer - Mini Project 03
 🙋🏼‍♂️[이욱진](https://github.com/ukjinlee66) : Network / Cloud / Project Manage  
 🙋🏼‍♂️[이용광](https://github.com/dldydrhkd) : Front-end / Back-end / Data Collection  
 🙋🏼‍♂️[권건우](https://github.com/Geonw00) : DB / Back-end / Data Analysis  
-🙋🏼‍♂️[박태준](https://github.com/ih-tjpark) : Data Preprocessing / Data Analysis  
+🙋🏼‍♂️[박태준](https://github.com/ih-tjpark) : Data Collection / Preprocessing / Analysis  
 #
 
 ### 🏗️아키텍처
